@@ -1,5 +1,7 @@
 # fake-smtp-server
 
+This project is obsolete. Use [reachfive/fake-smtp-server](https://hub.docker.com/r/reachfive/fake-smtp-server) instead.
+
 Creates a Docker image of [fake-smtp-server](https://github.com/ReachFive/fake-smtp-server).
 
 ## Usage
